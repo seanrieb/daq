@@ -1,5 +1,5 @@
 #ifndef _ADCCONTROLLER_H_
-#define _ADCCONTROLLER_H_uint8_t reg, uint8_t val
+#define _ADCCONTROLLER_H_
 
 #include <SPI.h>
 #include "ADS114S08B.h"
